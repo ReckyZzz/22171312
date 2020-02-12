@@ -1,3 +1,2 @@
-# 22171312
-Winter vacation homework 2
-张庭博的寒假作业
+# InfectStatistic  
+疫情统计-作业  
