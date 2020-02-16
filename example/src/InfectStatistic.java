@@ -13,9 +13,6 @@ import java.util.regex.Pattern;
 class InfectStatistic {
     public static void main(String[] args)
     {
-        /*String test="list -log E:\\Projects\\PPP\\src\\log\\ -out E:\\Projects\\PPP\\out\\out3.txt -date 2020-01-23 -type cure dead ip -province 全国 浙江 " +
-                "福建";
-        args = test.split(" ");*/
         CommandIdentity cmdit=new CommandIdentity(args);
         /*cmdit.PrintCommand();*/
         cmdit.Identify();
